@@ -19,6 +19,7 @@ function App() {
     <div>
       <Button title='send1'/>
       <Button title='endpoint'/>
+      <Button title='endpoint'/>
     </div>
   )
   
